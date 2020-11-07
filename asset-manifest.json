@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactProject/demothree/static/css/main.69b9c786.chunk.css",
+    "main.js": "/reactProject/demothree/static/js/main.a3c93b9f.chunk.js",
+    "main.js.map": "/reactProject/demothree/static/js/main.a3c93b9f.chunk.js.map",
+    "runtime-main.js": "/reactProject/demothree/static/js/runtime-main.fa0f8c47.js",
+    "runtime-main.js.map": "/reactProject/demothree/static/js/runtime-main.fa0f8c47.js.map",
+    "static/css/2.95f25948.chunk.css": "/reactProject/demothree/static/css/2.95f25948.chunk.css",
+    "static/js/2.660fc542.chunk.js": "/reactProject/demothree/static/js/2.660fc542.chunk.js",
+    "static/js/2.660fc542.chunk.js.map": "/reactProject/demothree/static/js/2.660fc542.chunk.js.map",
+    "static/js/3.e46692fc.chunk.js": "/reactProject/demothree/static/js/3.e46692fc.chunk.js",
+    "static/js/3.e46692fc.chunk.js.map": "/reactProject/demothree/static/js/3.e46692fc.chunk.js.map",
+    "index.html": "/reactProject/demothree/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/reactProject/demothree/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.69b9c786.chunk.css.map": "/reactProject/demothree/static/css/main.69b9c786.chunk.css.map",
+    "static/js/2.660fc542.chunk.js.LICENSE.txt": "/reactProject/demothree/static/js/2.660fc542.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0f8c47.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.660fc542.chunk.js",
+    "static/css/main.69b9c786.chunk.css",
+    "static/js/main.a3c93b9f.chunk.js"
+  ]
+}
